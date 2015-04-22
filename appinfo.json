@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bradii2",
+    "longName": "First Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/BradWatch Background.png",
+                "name": "IMAGE_WATCH_BACK",
+                "type": "png"
+            },
+            {
+                "file": "fonts/starcraft.ttf",
+                "name": "FONT_STARCRAFT_38",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "BradWatch",
+    "uuid": "6b68f52d-420e-47dc-acab-7d05a497c530",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
